@@ -1,0 +1,25 @@
+body{
+    background-color: aquamarine;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 14;
+}
+h1{
+    color: rgb(78, 72, 72);
+    text-align: center;
+}
+.texto{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+    
+}
+#imagen{
+    border-color: aliceblue;
+    border-style: solid;
+    border-width: 2px;
+    border-radius: 10%;
+}
+#link{
+    font-size: 12px;
+    
+}
+
