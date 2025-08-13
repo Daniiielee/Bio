@@ -17,9 +17,15 @@ h1{
     border-style: solid;
     border-width: 2px;
     border-radius: 10%;
+    max-width: 80%;
+
 }
 #link{
     font-size: 12px;
     
+}
+#div2{
+    justify-content:center;
+    align-items: center;
 }
 
